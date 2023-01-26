@@ -1,0 +1,25 @@
+
+/*
+
+COMMENTS FROM THE INSTRUCTOR:
+
+This is a good-looking project, Sean, and I'm glad you finally got it
+uploaded as a repository on GitHub.
+
+As you know, we wanted to see more than one commit on here, but at 
+least you got the .gitignore file set up on there, so you've got 
+that going for you! :)
+
+This project is a nice summary of how you can have: 
+
+1. a class that represents something (like a song)
+2. a class that manages an Array or Array list of those items, and
+3. a Runner or Tester that creates the manager and demonstrates how
+   it works.
+
+Classic! Keep up the good work!
+
+SCORE:19/20
+
+*/
+
